@@ -1,4 +1,4 @@
-# z-one-notify-api
+# notification-api
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
